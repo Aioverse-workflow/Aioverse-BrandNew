@@ -1,5 +1,9 @@
 # Aioverse Brand Assets Repository
 
+![IMG_0699](https://github.com/user-attachments/assets/ee1ff487-bbf0-4990-9250-587f1679d2ff)
+
+
+
 > **Aioverse** is the universal naming component and organizational framework for Aiotize Inc.'s brand ecosystem.
 
 ## Repository Overview
