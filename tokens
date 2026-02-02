@@ -3068,6 +3068,600 @@
       "created": "2025-09-08T20:08:11.245384"
     },
     {
+      "token": "LOGO-LM-TEAL001",
+      "original_name": "lm_midnightteal.svg",
+      "standardized_name": "Logomark_Midnight-Teal_LOGO-LM-TEAL001.svg",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Midnight-Teal",
+      "size_bytes": 2850,
+      "size_mb": 0.003,
+      "path": "logos/lm_midnightteal.svg",
+      "metadata": {
+        "file_format": "SVG",
+        "web_optimized": true,
+        "has_transparency": true,
+        "scalable": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "midnight-teal",
+        "vector",
+        "mark",
+        "identity",
+        "symbol"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-LM-TEAL002",
+      "original_name": "lm_midnightteal.webp",
+      "standardized_name": "Logomark_Midnight-Teal_LOGO-LM-TEAL002.webp",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Midnight-Teal",
+      "size_bytes": 8516,
+      "size_mb": 0.008,
+      "path": "logos/lm_midnightteal.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "midnight-teal",
+        "web-optimized",
+        "mark",
+        "identity",
+        "symbol"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-LM-AQUA001",
+      "original_name": "lm_electricaqua.svg",
+      "standardized_name": "Logomark_Electric-Aqua_LOGO-LM-AQUA001.svg",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Electric-Aqua",
+      "size_bytes": 2918,
+      "size_mb": 0.003,
+      "path": "logos/lm_electricaqua.svg",
+      "metadata": {
+        "file_format": "SVG",
+        "web_optimized": true,
+        "has_transparency": true,
+        "scalable": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "electric-aqua",
+        "vector",
+        "mark",
+        "identity",
+        "accent"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-LM-AQUA002",
+      "original_name": "lm_electricaqua.webp",
+      "standardized_name": "Logomark_Electric-Aqua_LOGO-LM-AQUA002.webp",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Electric-Aqua",
+      "size_bytes": 1206,
+      "size_mb": 0.001,
+      "path": "logos/lm_electricaqua.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "electric-aqua",
+        "web-optimized",
+        "mark",
+        "identity",
+        "accent"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-LM-WHITE001",
+      "original_name": "lm_softwhite.svg",
+      "standardized_name": "Logomark_Soft-White_LOGO-LM-WHITE001.svg",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Soft-White",
+      "size_bytes": 2892,
+      "size_mb": 0.003,
+      "path": "logos/lm_softwhite.svg",
+      "metadata": {
+        "file_format": "SVG",
+        "web_optimized": true,
+        "has_transparency": true,
+        "scalable": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "soft-white",
+        "vector",
+        "mark",
+        "identity",
+        "clean"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-LM-WHITE002",
+      "original_name": "lm_softwhite.webp",
+      "standardized_name": "Logomark_Soft-White_LOGO-LM-WHITE002.webp",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Soft-White",
+      "size_bytes": 1206,
+      "size_mb": 0.001,
+      "path": "logos/lm_softwhite.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "soft-white",
+        "web-optimized",
+        "mark",
+        "identity",
+        "clean"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-FULL-TEAL001",
+      "original_name": "logo_midnightteal.svg",
+      "standardized_name": "Logo-Full_Midnight-Teal_LOGO-FULL-TEAL001.svg",
+      "category": "Icons/Logos",
+      "family": "Logo-Full",
+      "variant": "Midnight-Teal",
+      "size_bytes": 3450,
+      "size_mb": 0.003,
+      "path": "logos/logo_midnightteal.svg",
+      "metadata": {
+        "file_format": "SVG",
+        "web_optimized": true,
+        "has_transparency": true,
+        "scalable": true
+      },
+      "ai_prompt_tags": [
+        "logo",
+        "full-logo",
+        "brand",
+        "midnight-teal",
+        "vector",
+        "identity",
+        "wordmark"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-FULL-TEAL002",
+      "original_name": "logo_midnightteal.webp",
+      "standardized_name": "Logo-Full_Midnight-Teal_LOGO-FULL-TEAL002.webp",
+      "category": "Icons/Logos",
+      "family": "Logo-Full",
+      "variant": "Midnight-Teal",
+      "size_bytes": 8058,
+      "size_mb": 0.008,
+      "path": "logos/logo_midnightteal.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logo",
+        "full-logo",
+        "brand",
+        "midnight-teal",
+        "web-optimized",
+        "identity",
+        "wordmark"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-FULL-AQUA001",
+      "original_name": "logo_electricaqua.svg",
+      "standardized_name": "Logo-Full_Electric-Aqua_LOGO-FULL-AQUA001.svg",
+      "category": "Icons/Logos",
+      "family": "Logo-Full",
+      "variant": "Electric-Aqua",
+      "size_bytes": 3518,
+      "size_mb": 0.003,
+      "path": "logos/logo_electricaqua.svg",
+      "metadata": {
+        "file_format": "SVG",
+        "web_optimized": true,
+        "has_transparency": true,
+        "scalable": true
+      },
+      "ai_prompt_tags": [
+        "logo",
+        "full-logo",
+        "brand",
+        "electric-aqua",
+        "vector",
+        "identity",
+        "accent"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-FULL-AQUA002",
+      "original_name": "logo_electricaqua.webp",
+      "standardized_name": "Logo-Full_Electric-Aqua_LOGO-FULL-AQUA002.webp",
+      "category": "Icons/Logos",
+      "family": "Logo-Full",
+      "variant": "Electric-Aqua",
+      "size_bytes": 11460,
+      "size_mb": 0.011,
+      "path": "logos/logo_electricaqua.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logo",
+        "full-logo",
+        "brand",
+        "electric-aqua",
+        "web-optimized",
+        "identity",
+        "accent"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-MARK-GRAD001",
+      "original_name": "Logomark_-_Grad.webp",
+      "standardized_name": "Logomark_Gradient_LOGO-MARK-GRAD001.webp",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Gradient",
+      "size_bytes": 1964,
+      "size_mb": 0.002,
+      "path": "logos/Logomark_-_Grad.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "gradient",
+        "colorful",
+        "web-optimized",
+        "mark",
+        "identity",
+        "vibrant"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-MARK-MIDNIGHT001",
+      "original_name": "Logomark_-_Midnight.webp",
+      "standardized_name": "Logomark_Midnight_LOGO-MARK-MIDNIGHT001.webp",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Midnight",
+      "size_bytes": 1350,
+      "size_mb": 0.001,
+      "path": "logos/Logomark_-_Midnight.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "midnight",
+        "dark",
+        "web-optimized",
+        "mark",
+        "identity"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-MARK-SOFT001",
+      "original_name": "Logomark_-_Soft.webp",
+      "standardized_name": "Logomark_Soft-White_LOGO-MARK-SOFT001.webp",
+      "category": "Icons/Logos",
+      "family": "Logomark",
+      "variant": "Soft-White",
+      "size_bytes": 622,
+      "size_mb": 0.001,
+      "path": "logos/Logomark_-_Soft.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "logomark",
+        "brand",
+        "soft",
+        "white",
+        "web-optimized",
+        "mark",
+        "identity",
+        "clean"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-AI-VECTOR001",
+      "original_name": "ai_vector.jpeg",
+      "standardized_name": "AI-Vector_Primary_LOGO-AI-VECTOR001.jpeg",
+      "category": "Icons/Logos",
+      "family": "AI-Vector",
+      "variant": "Primary",
+      "size_bytes": 125480,
+      "size_mb": 0.12,
+      "path": "logos/ai_vector.jpeg",
+      "metadata": {
+        "file_format": "JPEG",
+        "web_optimized": false,
+        "has_transparency": false
+      },
+      "ai_prompt_tags": [
+        "ai-vector",
+        "logo",
+        "brand",
+        "vector",
+        "identity",
+        "visual"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-AI-GRAD001",
+      "original_name": "Ai_-_Grad.webp",
+      "standardized_name": "AI_Gradient_LOGO-AI-GRAD001.webp",
+      "category": "Icons/Logos",
+      "family": "AI-Logo",
+      "variant": "Gradient",
+      "size_bytes": 1230,
+      "size_mb": 0.001,
+      "path": "logos/Ai_-_Grad.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "ai-logo",
+        "gradient",
+        "colorful",
+        "web-optimized",
+        "brand",
+        "vibrant",
+        "identity"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-AI-WBG001",
+      "original_name": "AI_-_W.BG.webp",
+      "standardized_name": "AI_White-Background_LOGO-AI-WBG001.webp",
+      "category": "Icons/Logos",
+      "family": "AI-Logo",
+      "variant": "White-Background",
+      "size_bytes": 1534,
+      "size_mb": 0.001,
+      "path": "logos/AI_-_W.BG.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true
+      },
+      "ai_prompt_tags": [
+        "ai-logo",
+        "white-background",
+        "web-optimized",
+        "brand",
+        "identity",
+        "clean"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-AIOTIZE-PFP001",
+      "original_name": "aiotize_pfp300x.webp",
+      "standardized_name": "Aiotize-ProfilePic_300x300_LOGO-AIOTIZE-PFP001.webp",
+      "category": "Icons/Logos",
+      "family": "Aiotize-Brand",
+      "variant": "Profile-Picture",
+      "size_bytes": 8516,
+      "size_mb": 0.008,
+      "path": "logos/aiotize_pfp300x.webp",
+      "metadata": {
+        "file_format": "WEBP",
+        "web_optimized": true,
+        "has_transparency": true,
+        "dimensions": "300x300px"
+      },
+      "ai_prompt_tags": [
+        "aiotize",
+        "profile-picture",
+        "avatar",
+        "brand",
+        "web-optimized",
+        "identity",
+        "social"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-AIOTIZE-VECTOR001",
+      "original_name": "aiotizeinc_vector.jpeg",
+      "standardized_name": "Aiotize-Inc-Vector_Primary_LOGO-AIOTIZE-VECTOR001.jpeg",
+      "category": "Icons/Logos",
+      "family": "Aiotize-Brand",
+      "variant": "Primary-Vector",
+      "size_bytes": 142860,
+      "size_mb": 0.136,
+      "path": "logos/aiotizeinc_vector.jpeg",
+      "metadata": {
+        "file_format": "JPEG",
+        "web_optimized": false,
+        "has_transparency": false
+      },
+      "ai_prompt_tags": [
+        "aiotize-inc",
+        "vector",
+        "brand",
+        "company",
+        "identity"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
+      "token": "LOGO-AIOTIZE-PDF001",
+      "original_name": "Aiotize Inc vector.pdf.pdf",
+      "standardized_name": "Aiotize-Inc-Vector_PDF_LOGO-AIOTIZE-PDF001.pdf",
+      "category": "Icons/Logos",
+      "family": "Aiotize-Brand",
+      "variant": "PDF-Vector",
+      "size_bytes": 284730,
+      "size_mb": 0.271,
+      "path": "logos/Aiotize Inc vector.pdf.pdf",
+      "metadata": {
+        "file_format": "PDF",
+        "web_optimized": false,
+        "has_transparency": false,
+        "printable": true
+      },
+      "ai_prompt_tags": [
+        "aiotize-inc",
+        "pdf",
+        "vector",
+        "brand",
+        "print",
+        "identity",
+        "document"
+      ],
+      "color_palette": {
+        "deep_teal": "#002426",
+        "cyan_light": "#73EFFB",
+        "off_white": "#FAFAFA"
+      },
+      "created": "2026-02-02T00:00:00.000000"
+    },
+    {
       "token": "IMG-CE019797",
       "original_name": "IMG_0768.webp",
       "standardized_name": "Content-Gallery_Image-0768_IMG-CE019797.webp",
@@ -9037,6 +9631,103 @@
         "family": "Helvetica-Neue"
       }
     ],
+    "brand-logos": [
+      {
+        "token": "LOGO-LM-TEAL001",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-LM-TEAL002",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-LM-AQUA001",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-LM-AQUA002",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-LM-WHITE001",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-LM-WHITE002",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-FULL-TEAL001",
+        "category": "Icons/Logos",
+        "family": "Logo-Full"
+      },
+      {
+        "token": "LOGO-FULL-TEAL002",
+        "category": "Icons/Logos",
+        "family": "Logo-Full"
+      },
+      {
+        "token": "LOGO-FULL-AQUA001",
+        "category": "Icons/Logos",
+        "family": "Logo-Full"
+      },
+      {
+        "token": "LOGO-FULL-AQUA002",
+        "category": "Icons/Logos",
+        "family": "Logo-Full"
+      },
+      {
+        "token": "LOGO-MARK-GRAD001",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-MARK-MIDNIGHT001",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-MARK-SOFT001",
+        "category": "Icons/Logos",
+        "family": "Logomark"
+      },
+      {
+        "token": "LOGO-AI-VECTOR001",
+        "category": "Icons/Logos",
+        "family": "AI-Vector"
+      },
+      {
+        "token": "LOGO-AI-GRAD001",
+        "category": "Icons/Logos",
+        "family": "AI-Logo"
+      },
+      {
+        "token": "LOGO-AI-WBG001",
+        "category": "Icons/Logos",
+        "family": "AI-Logo"
+      },
+      {
+        "token": "LOGO-AIOTIZE-PFP001",
+        "category": "Icons/Logos",
+        "family": "Aiotize-Brand"
+      },
+      {
+        "token": "LOGO-AIOTIZE-VECTOR001",
+        "category": "Icons/Logos",
+        "family": "Aiotize-Brand"
+      },
+      {
+        "token": "LOGO-AIOTIZE-PDF001",
+        "category": "Icons/Logos",
+        "family": "Aiotize-Brand"
+      }
+    ],
     "content-gallery": [
       {
         "token": "IMG-CE019797",
@@ -11047,23 +11738,6 @@
       }
     ],
     "icons/logos": [
-      {
-        "token": "IMG-4E995388",
-        "category": "Icons/Logos",
-        "family": "Brand-Logos"
-      },
-      {
-        "token": "IMG-3BF65A61",
-        "category": "Icons/Logos",
-        "family": "Brand-Logos"
-      },
-      {
-        "token": "IMG-AB3763EB",
-        "category": "Icons/Logos",
-        "family": "Brand-Logos"
-      }
-    ],
-    "brand-logos": [
       {
         "token": "IMG-4E995388",
         "category": "Icons/Logos",

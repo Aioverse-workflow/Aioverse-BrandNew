@@ -1,0 +1,115 @@
+{
+  "palette": {
+    "primary": [
+      {
+        "name": "Brand Blue",
+        "hex": "#0066CC",
+        "rgb": "rgb(0, 102, 204)",
+        "usage": "Primary CTA, Headers, Brand Elements"
+      },
+      {
+        "name": "Accent Orange",
+        "hex": "#FF6B35",
+        "rgb": "rgb(255, 107, 53)",
+        "usage": "Highlights, Hover States, Alerts"
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#001A4D",
+        "rgb": "rgb(0, 26, 77)",
+        "usage": "Text, Dark Backgrounds, Footer"
+      },
+      {
+        "name": "Teal Dark",
+        "hex": "#002428",
+        "rgb": "rgb(0, 36, 40)",
+        "usage": "Deep Brand Accent, Premium Elements"
+      }
+    ],
+    "secondary": [
+      {
+        "name": "Light Blue",
+        "hex": "#E6F0FF",
+        "rgb": "rgb(230, 240, 255)",
+        "usage": "Background, Light Accents"
+      },
+      {
+        "name": "Soft Grey",
+        "hex": "#F5F5F5",
+        "rgb": "rgb(245, 245, 245)",
+        "usage": "Backgrounds, Cards, Borders"
+      },
+      {
+        "name": "Medium Grey",
+        "hex": "#888888",
+        "rgb": "rgb(136, 136, 136)",
+        "usage": "Secondary Text, Disabled States"
+      },
+      {
+        "name": "Cyan Bright",
+        "hex": "#73EFFB",
+        "rgb": "rgb(115, 239, 251)",
+        "usage": "Interactive Elements, Highlights, Tech Accents"
+      },
+      {
+        "name": "Off-White",
+        "hex": "#FAFAFA",
+        "rgb": "rgb(250, 250, 250)",
+        "usage": "Primary Backgrounds, Light UI Surfaces"
+      }
+    ],
+    "functional": [
+      {
+        "name": "Success Green",
+        "hex": "#00AA44",
+        "rgb": "rgb(0, 170, 68)",
+        "usage": "Success Messages, Confirmations"
+      },
+      {
+        "name": "Warning Yellow",
+        "hex": "#FFAA00",
+        "rgb": "rgb(255, 170, 0)",
+        "usage": "Warnings, Cautions"
+      },
+      {
+        "name": "Error Red",
+        "hex": "#CC0000",
+        "rgb": "rgb(204, 0, 0)",
+        "usage": "Errors, Destructive Actions"
+      }
+    ],
+    "neutral": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "rgb": "rgb(0, 0, 0)",
+        "usage": "Text, Borders, Shadows"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "rgb": "rgb(255, 255, 255)",
+        "usage": "Backgrounds, Text on Dark"
+      }
+    ]
+  },
+  "cssVariables": {
+    "comment": "Update hex values above, then regenerate CSS variables from this config",
+    "variables": {
+      "--color-brand-blue": "#0066CC",
+      "--color-accent-orange": "#FF6B35",
+      "--color-deep-navy": "#001A4D",
+      "--color-teal-dark": "#002428",
+      "--color-light-blue": "#E6F0FF",
+      "--color-soft-grey": "#F5F5F5",
+      "--color-medium-grey": "#888888",
+      "--color-cyan-bright": "#73EFFB",
+      "--color-off-white": "#FAFAFA",
+      "--color-success-green": "#00AA44",
+      "--color-warning-yellow": "#FFAA00",
+      "--color-error-red": "#CC0000",
+      "--color-black": "#000000",
+      "--color-white": "#FFFFFF"
+    }
+  }
+}
